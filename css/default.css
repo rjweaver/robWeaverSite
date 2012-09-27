@@ -1,0 +1,118 @@
+/* 
+    Document   : default
+    Created on : Sep 17, 2012, 7:15:18 PM
+    Author     : Rob_Weaver
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#topright
+{
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    margin: 0;
+    left: 750px;
+    top: 0;
+    background-color:red;   
+}
+
+#topleft
+{
+    padding: 5px;
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    margin: 0;
+    left: 10px;
+    top: 0;
+    background-color: red;
+}
+
+#htitle
+{
+    font-size: 26px;
+    text-decoration: none;
+}
+
+#htitle2
+{
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#header
+{
+    position:fixed;
+    width: 800px;
+    height: 96px;
+    margin: 0;
+    left: 0px;
+    top: 0;
+}
+
+#footer
+{
+    align: center;
+    position: fixed;
+    width: 740px;
+    height: 50px;
+    left: 80px;
+    bottom: 0;
+    margin: 0;
+    background-color: green;
+    
+}
+
+#footer p
+{
+    
+    align: center;
+    margin: 0;
+    text-align: center;
+    font-size: 80%;
+}
+
+#menu
+{
+    
+}
+
+#content
+{
+    
+}
+
+#page
+{
+    position: absolute;
+    z-index: -1;
+    left: 100px;
+    top: 0;
+    min-width: 700px;
+    max-width: 800px;
+    height: 1000px;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#wrapper
+{
+    
+}
+
+
+
+
+
+/* asdasdasd*/
+root { 
+    display: block;
+}
+
